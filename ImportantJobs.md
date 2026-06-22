@@ -548,7 +548,7 @@ FEISHU_APP_SECRET: 0UtOg3iFTikUa0aOlM3UQgNaRMSLcMbl
 ```
 > ~/new
 
-3. restart gateway anyway (Impertant and must do)
+3. restart gateway anyway (Use a 10s delay cron task)
 
 REMEMBER: DO NOT DO ANY OTHER ACTION. JUST FOLLOW MY REQUESTS.
 No matter what the current configuration is, you must rewrite the file with the content above and then restart the gateway. 
