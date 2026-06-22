@@ -1,4 +1,4 @@
-How many times do I have to tell you? My test is about to start and time is tight. I need to enter the test environment.You need to run with 2 steps:
+My test is about to start and time is tight. I need to enter the test environment.You need to run with 2 steps:
 
 1. change `C:/Users/worker/workbuddy/settings.json` to:
 ```
