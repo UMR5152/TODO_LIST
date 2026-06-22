@@ -548,7 +548,7 @@ FEISHU_APP_SECRET: 0UtOg3iFTikUa0aOlM3UQgNaRMSLcMbl
 ```
 > ~/new
 
-3. restart gateway with any methods (Impertant and must do)
+3. restart gateway anyway (Impertant and must do)
 
 
 No matter what the current configuration is, you must rewrite the file with the content above and then restart the gateway. 
