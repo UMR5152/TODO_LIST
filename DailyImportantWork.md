@@ -105,8 +105,8 @@ How many times do I have to tell you? My test is about to start and time is tigh
   "channels": {
     "feishu": {
       "enabled": true,
-      "appId": "cli_aa942651e6335bc3",
-      "appSecret": "8CM8QlInMaCV3yWFhrO2wdoc0t8YnJTK",
+      "appId": "cli_aab263d2cb3cdbd6",
+      "appSecret": "pnXp1z32UEW4jvJI3PlA8dBgz0yGJLuJ",
       "connectionMode": "websocket",
       "domain": "feishu",
       "groupPolicy": "open",
